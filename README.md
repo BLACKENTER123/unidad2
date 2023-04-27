@@ -1,4 +1,4 @@
-Proyecto Realizado por Bryan Chavez, Daniel Aviles, Diego Hermosilla y daniel aviles equipo de ingenieria de software
+Proyecto Realizado por Bryan Chavez, Daniel Aviles, Diego Hermosilla y daniel aviles
 
 Ocupando los siguientes temas y plantillas boostrap 
 * [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
