@@ -1,5 +1,6 @@
 Proyecto Realizado por Bryan Chavez, Daniel Aviles, Diego Hermosilla y daniel aviles
 
+Ocupando los siguientes temas y plantillas boostrap 
 * [**Sparrow**](https://themewagon.com/themes/sparrow/) - A multipurpose template made with Bootstrap 4.1 and world's finest animation.
 * [**Posh**](https://themewagon.com/themes/posh-html5-bootstrap-4-template/) - Bootstrap 4 template with a myriad number of ready-to-deploy sections. 
 * [**Elixir**](https://themewagon.com/themes/elixir-elegant-html5-bootstrap-template-consultancy-agency-website/) - Bootstrap 4 agency template. Best for smooth animated scrolling. 
